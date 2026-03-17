@@ -190,7 +190,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                 <div style="width:40px; height:40px; background:linear-gradient(135deg, #6a11cb, #2575fc); border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:bold; color:white;">4</div>
                                 <div style="flex:1;">
                                     <h3 style="color:white; margin-bottom:0.3rem;">Toca para conectar</h3>
-                                    <p style="color:rgba(255,255,255,0.7);">Confirma la conexión a Internet Xyndy</p>
+                                    <p style="color:rgba(255,255,255,0.7);">Confirma la conexión a Internet JmP</p>
                                 </div>
                                 <i class="fas fa-wifi" style="color:#6a11cb; font-size:2rem;"></i>
                             </div>
@@ -338,7 +338,7 @@ window.simulateQRScan = function() {
                 
                 <h2 style="color:white; font-size:2rem; margin-bottom:1rem;">¡QR Detectado!</h2>
                 <p style="color:#00b894; font-size:1.3rem; margin-bottom:2rem; background:rgba(0,184,148,0.1); padding:0.5rem 1.5rem; border-radius:50px;">
-                    <i class="fas fa-wifi"></i> Internet Xyndy - 2.5G
+                    <i class="fas fa-wifi"></i> Internet JmP - 5G
                 </p>
                 
                 <!-- Botones -->
