@@ -399,7 +399,7 @@ window.completeQRConnection = function() {
         <i class="fas fa-check-circle" style="font-size:2rem;"></i>
         <div>
             <strong style="font-size:1.2rem;">¡Conectado!</strong>
-            <p style="opacity:0.9; margin-top:5px;">Internet Xyndy - 2.5G</p>
+            <p style="opacity:0.9; margin-top:5px;">Internet JmP - 5G</p>
         </div>
         <button onclick="this.parentElement.remove()" style="background:none; border:none; color:white; cursor:pointer; font-size:1.3rem; opacity:0.8; margin-left:20px; hover:opacity:1;">
             <i class="fas fa-times"></i>
@@ -684,7 +684,7 @@ window.downloadQR = function() {
     // Crear enlace de descarga
     const link = document.createElement('a');
     link.href = qrSrc;
-    link.download = 'QR-Internet-Xyndy.jpg';
+    link.download = 'QR-JmP.jpg';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
